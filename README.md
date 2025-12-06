@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <strong>Sadeepa Pemasiri</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Sadeepa Lakshaqn Pemasiri</strong></h1>
 <h3 align="center">Developer • Tech Creator • Editor from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
